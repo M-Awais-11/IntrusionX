@@ -248,8 +248,6 @@ The final database should provide a structured and scalable storage layer for th
 
 It should connect the machine learning detection pipeline with the Agentic AI layer, allowing the system to store predictions, analyze suspicious activities, generate security alerts, and maintain a complete history of AI agent operations.
 
-**Recommended Initial Database:** PostgreSQL
+**Recommended Initial Database:** PostgreSQL/SQL/SQLite
 
 **Initial Core Tables:** 10
-
-**Architecture:** Relational Database with JSONB support
